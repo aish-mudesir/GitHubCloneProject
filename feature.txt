@@ -1,1 +1,15 @@
 
+Feature: Greeting Functionality
+
+Description:
+This feature adds a greeting message to the application. It allows users to receive a personalized greeting 
+when they log in or access the app. The greeting message can be customized by the user in their profile settings.
+
+Planned Enhancements:
+- Add support for multiple languages.
+- Include time-based greetings (e.g., Good morning, Good afternoon, Good evening).
+- Option to send greeting notifications via email or app notifications.
+
+Usage:
+- The greeting will appear on the home page after login.
+- Users can enable or disable greetings in the settings menu.
