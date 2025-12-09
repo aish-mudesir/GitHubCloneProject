@@ -1,3 +1,7 @@
+
+This is a new feature.
+
+
 cat > feature.txt <<EOL
 Feature: Greeting Functionality
 
