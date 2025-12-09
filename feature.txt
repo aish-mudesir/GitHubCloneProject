@@ -1,4 +1,4 @@
-
+cat > feature.txt <<EOL
 Feature: Greeting Functionality
 
 Description:
@@ -13,3 +13,4 @@ Planned Enhancements:
 Usage:
 - The greeting will appear on the home page after login.
 - Users can enable or disable greetings in the settings menu.
+EOL
