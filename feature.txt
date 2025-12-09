@@ -1,5 +1,5 @@
 
-This is a new feature.
+echo "This is a new feature." > feature.txt
 
 
 cat > feature.txt <<EOL
